@@ -1,6 +1,6 @@
 # Augmented Face Example
 
-![Augmented Face Example](https://github.com/jbyu/arcor_face/blob/master/example.jpg)
+![Augmented Face Example](https://github.com/jbyu/arcore_face/blob/master/example.jpg)
 
 Unity 2018.3.3
 https://unity3d.com/get-unity/download/archive
